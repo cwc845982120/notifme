@@ -1,0 +1,20 @@
+{
+  "name": "notifme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "notifme"
+  ],
+  "author": "cwc",
+  "license": "ISC",
+  "dependencies": {
+    "notifme-sdk": "^1.0.1"
+  },
+  "devDependencies": {
+    "notification-catcher": "^1.0.3"
+  }
+}
